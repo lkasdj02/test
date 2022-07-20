@@ -1,5 +1,5 @@
 #ciao
 
-questo e' un file di test.
+questo e' un file di test. \n
 porca troia
 
